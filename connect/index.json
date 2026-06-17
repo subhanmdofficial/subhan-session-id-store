@@ -1,7 +1,7 @@
 {
     "_comment": "Upload this JSON on your CONNECT_JSON_URL. Bot polls it and can send an update message + auto-join group/newsletter. Placeholders supported in messages: {{botName}}, {{prefix}}, {{botNumber}}, {{sessionLabel}}, {{time}}, {{date}}",
-    "By": "SUBHAN \nCredit: SUBHAN MD",
-    "messages": "hi Dear User {{botName}} Was Updated New Version 3.0.1 was launched Now You Can Easily Deploy Whatsapp Bot Free Visit \r\n\r\nhttps://subhan-md.page.gd",
+    "By": "SUBHAN MD",
+    "messages": "Hi Dear User {{botName}} Was Updated New Version 5.0.0 was launched Now You Can Easily Deploy Whatsapp Bot Free Visit \r\n\r\nhttps://subhan-md.page.gd",
     "send": "true",
     "to": "self",
     "join": "https://whatsapp.com/channel/0029Vb7PxlkId7nHPaXNAu3m",
